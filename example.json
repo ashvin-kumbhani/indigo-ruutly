@@ -1,0 +1,37 @@
+{
+	"id":"743999656679112",
+	"name":"Customer Experience Manager",
+	"uuid":"ee46d0ea-70e5-47df-98c9-02e8a445988d",
+	"refNumber":"50107482",
+	"company":{"identifier":"IndigoBooksMusic","name":"Indigo Books & Music"},
+	"releasedDate":"2017-07-28T16:33:57.395Z",
+	"location":{"city":"Lethbridge","region":"AB","country":"ca"},
+	"industry":{"id":"retail","label":"Retail"},
+	"department":{"id":"807235","label":"Customer Service"},
+	"function":{"id":"customer_service","label":"Customer Service"},
+	"typeOfEmployment":{"label":"Full-time"},
+	"experienceLevel":{"id":"mid_senior_level","label":"Mid-Senior Level"},
+	"customField":[
+		{
+			"fieldId":"COUNTRY",
+			"fieldLabel":"Country",
+			"valueId":"ca",
+			"valueLabel":"Canada"
+		},
+		{
+			"fieldId":"58b7e4d1e4b0885c92cd9890",
+			"fieldLabel":"Department",
+			"valueId":"807235",
+			"valueLabel":"Customer Service"
+		},
+		{
+			"fieldId":"58b7e4d1e4b0885c92cd988f",
+			"fieldLabel":"Brands",
+			"valueId":"default",
+			"valueLabel":"Indigo Books & Music"
+		}
+	],
+	"ref":"https://api.smartrecruiters.com/api-v1/companies/IndigoBooksMusic/postings/743999656679112",
+	"creator":{"name":"Brandon Calestagne"},
+	"language":{"code":"en","label":"English","labelNative":"English (US)"}
+}

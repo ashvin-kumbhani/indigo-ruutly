@@ -1,0 +1,114 @@
+{
+	"languageSelector": "English",
+  "results": "Résultats",
+  "viewJob": "Voir le poste",
+  "copyRight": "Indigo. Tous droits reservés. 468 King St. W., Toronto ON M5V 1L8",
+  "applyForJob": "Postuler pour ce poste",
+  "job": {
+    "companyDesc": "Description de l'entreprise",
+    "jobDesc": "Description de poste",
+    "qualifications": "Compétences",
+    "additionalInfo": "Informations Supplémentaires"
+  },
+  "footer1": {
+    "header": "Carrières D'Indigo",
+    "text1": "Accueil Indigo",
+    "link1": "https://www.chapters.indigo.ca/fr-ca/",
+    "text2": "Accueil carrières",
+    "link2": "https://www.chapters.indigo.ca/fr-ca/carrieres/carrieres-chez-indigo/",
+    "text3": "Postes en magasin - CA",
+    "text7": "Postes en magasin - US",
+    "link3": "/?dept=retail-ca&lng=fr",
+    "link7": "/?dept=retail-us&lng=fr",
+    "text4": "Poste au siège social",
+    "link4": "/?dept=ho&lng=fr",
+    "text5": "Postes aux centres de distribution",
+    "link5": "/?dept=ds&lng=fr",
+    "text6": "Tous les postes",
+    "link6": "/?dept=all&lng=fr"
+  },
+  "footer2": {
+    "header": "Au Sujet D'Indigo",
+    "text1": "Notre mission",
+    "link1": "https://www.chapters.indigo.ca/fr-ca/notre-mission/?link-usage=Footer%3A%20Notre%20mission",
+    "text2": "Programme d'affiliation",
+    "link2": "https://www.chapters.indigo.ca/fr-ca/affiliate/welcome/?link-usage=Footer%3A%20programme%20d%27affiliation",
+    "text3": "Foundation Indigo pour l'amour de la lecture",
+    "link3": "https://www.chapters.indigo.ca/fr-ca/fondation-amour-lecture/?link-usage=Footer%3A%20Foundation%20Indigo%20pour%20l%27amour%20de%20la%20lecture",
+    "text4": "Politique de confidentialité",
+    "link4": "https://www.chapters.indigo.ca/fr-ca/privacy-policy/priv-art.html?link-usage=Footer%3A%20Politique%20de%20confidentialit%C3%A9",
+    "text5": "Conditions d'utilisation",
+    "link5": "https://www.chapters.indigo.ca/fr-ca/Legal-Statement/legal-art.html?link-usage=Footer%3A%20Conditions%20d%27utilisation",
+    "text6": "Contactez-nous",
+    "link6": "https://www.chapters.indigo.ca/fr-ca/contact-us/contactus-art.html?link-usage=Footer%3A%20Contactez-nous&__lang=fr-CA"
+  },
+  "footer3": {
+    "header": "Social"
+  },
+  "banner": {
+  	"main": "Faites partie de notre histoire.",
+  	"retailCa": "Magasins - Canada",
+  	"retailUs": "Magasins - US",
+  	"ho": "Siège Social",
+  	"ds": "Centre de Distribution",
+  	"viewAll": "Voir tous",
+    "search": "Rechercher",
+    "searchBlurb": "Chercher par titre ou par emplacement",
+    "allLocations": "Tous les emplacements"
+  },
+  "segments": {
+    "Retail": "Magasins",
+    "Home Office": "Siège Social",
+    "Distribution": "Distribution"
+  },
+  "departments": {
+  	"Administrative": "Administratif",
+  	"Art/Creative": "Artistique/Créatif",
+  	"Customer Service": "Service à la clientèle",
+  	"Design": "Design",
+  	"Finance": "Finances",
+  	"Human Resources": "Ressources humaines",
+  	"Information Technology": "Technologies de l'information",
+  	"Legal": "Juridique",
+  	"Marketing": "Marketing",
+  	"Other": "Autre",
+  	"Purchasing": "Achats",
+  	"Strategy/Planning": "Stratégie/Planification",
+  	"Supply Chain": "Chaîne d'approvisionnement",
+  	"Indigo Digital": "Indigo numérique",
+    "All Departments": "Tous les départements",
+    "Not Specified": "Not Specified"
+  },
+  "levels": {
+    "All Levels": "Tous les niveaux",
+    "Associate": "Préposé",
+    "Director": "Directeur",
+    "Not Applicable": "Ne s’applique pas",
+    "Mid-Senior Level": "Postes de niveau intermédiaire et supérieur",
+    "Entry Level": "Niveau d’entrée"
+  },
+  "types": {
+  	"Part-time": "Temps partiel",
+  	"Contract": "Contractuel",
+  	"Full-time": "Temps plein",
+  	"Intern": "Stage",
+  	"All Types": "Tous les types"
+  },
+  "header": {
+    "text1": "Accueil Indigo",
+    "link1": "https://www.chapters.indigo.ca/fr-ca/",
+    "text2": "Accueil carrières",
+    "link2": "https://www.chapters.indigo.ca/fr-ca/carrieres/carrieres-chez-indigo/",
+    "text3": "Postes en magasin - CA",
+    "text7": "Postes en magasin - US",
+    "link3": "/?dept=retail-ca&lng=fr",
+    "link7": "/?dept=retail-us&lng=fr",
+    "text4": "Poste au siège social",
+    "link4": "/?dept=ho&lng=fr",
+    "text5": "Postes aux centres de distribution",
+    "link5": "/?dept=ds&lng=fr",
+    "text6": "Tous les postes",
+    "link6": "/?dept=all&lng=fr",
+    "jobs": "Les Postes"
+  }
+}

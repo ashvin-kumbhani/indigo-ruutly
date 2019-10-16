@@ -1,0 +1,114 @@
+{
+	"languageSelector": "Français",
+  "results": "Results",
+  "viewJob": "View Job",
+  "copyRight": "Indigo. All rights reserved. 468 King St. W., Toronto ON M5V 1L8",
+  "applyForJob": "Apply For This Job",
+  "job": {
+    "companyDesc": "Company Description",
+    "jobDesc": "Job Description",
+    "qualifications": "Qualifications",
+    "additionalInfo": "Additional Information"
+  },
+  "footer1": {
+    "header": "Indigo Careers",
+    "text1": "Indigo Home",
+    "link1": "https://www.chapters.indigo.ca/en-ca/",
+    "text2": "Careers Home",
+    "link2": "https://www.chapters.indigo.ca/en-ca/careers/careers-at-indigo",
+    "text3": "Retail Jobs - CA",
+    "text7": "Retail Jobs - US",
+    "link3": "/?dept=retail-ca&lng=en",
+    "link7": "/?dept=retail-us&lng=en",
+    "text4": "Home Office Jobs",
+    "link4": "/?dept=ho&lng=en",
+    "text5": "Distribution Jobs",
+    "link5": "/?dept=ds&lng=en",
+    "text6": "All Jobs",
+    "link6": "/?dept=all&lng=en"
+  },
+  "footer2": {
+    "header": "About Indigo",
+    "text1": "Our Company",
+    "link1": "https://www.chapters.indigo.ca/en-ca/our-company/?link-usage=Footer%3A%20Our%20Company",
+    "text2": "Affiliates Program",
+    "link2": "https://www.chapters.indigo.ca/en-ca/affiliate/welcome/?link-usage=Footer%3A%20Affiliates%20Program",
+    "text3": "Indigo Love of Reading Foundation",
+    "link3": "https://www.chapters.indigo.ca/en-ca/authors-faq/?link-usage=Footer%3A%20Vendors%20%26%20Authors",
+    "text4": "Privacy Policy",
+    "link4": "https://www.chapters.indigo.ca/en-ca/Privacy-Policy/priv-art.html?link-usage=Footer%3A%20Privacy%20Policy%09",
+    "text5": "Terms of Use",
+    "link5": "https://www.chapters.indigo.ca/en-ca/Legal-Statement/legal-art.html?link-usage=Footer%3A%20Terms%20of%20Use",
+    "text6": "Contact Us",
+    "link6": "https://help.indigo.ca/app/ask"
+  },
+  "footer3": {
+    "header": "Be Social"
+  },
+  "banner": {
+  	"main": "Be part of our story.",
+  	"retailCa": "Retail - Canada",
+  	"retailUs": "Retail - US",
+  	"ho": "Home Office",
+  	"ds": "Distribution & Supply",
+  	"viewAll": "View All",
+    "search": "Search",
+    "searchBlurb": "Search by title or location",
+    "allLocations": "All Locations"
+  },
+  "segments": {
+    "Retail": "Retail",
+    "Home Office": "Home Office",
+    "Distribution": "Distribution"
+  },
+  "departments": {
+  	"Administrative": "Administrative",
+  	"Art/Creative": "Art/Creative",
+  	"Customer Service": "Customer Service",
+  	"Design": "Design",
+  	"Finance": "Design",
+  	"Human Resources": "Human Resources",
+  	"Information Technology": "Information Technology",
+  	"Legal": "Legal",
+  	"Marketing": "Marketing",
+  	"Other": "Other",
+  	"Purchasing": "Purchasing",
+  	"Strategy/Planning": "Strategy/Planning",
+  	"Supply Chain": "Supply Chain",
+  	"Indigo Digital": "Indigo Digital",
+    "All Departments": "All Departments",
+    "Not Specified": "Not Specified"
+  },
+  "levels": {
+    "All Levels": "All Levels",
+    "Associate": "Associate",
+    "Director": "Director",
+    "Not Applicable": "Not Applicable",
+    "Mid-Senior Level": "Mid-Senior Level",
+    "Entry Level": "Entry Level"
+  },
+  "types": {
+  	"Part-time": "Part-time",
+  	"Contract": "Contract",
+  	"Full-time": "Full-time",
+  	"Intern": "Intern",
+  	"All Types": "All Types"
+  },
+  "header": {
+    "text1": "Indigo Home",
+    "link1": "https://www.chapters.indigo.ca/en-ca/",
+    "text2": "Careers Home",
+    "link2": "https://www.chapters.indigo.ca/en-ca/careers/careers-at-indigo",
+    "text3": "Retail Jobs - CA",
+    "text7": "Retail Jobs - US",
+    "link3": "/?dept=retail-ca&lng=en",
+    "link7": "/?dept=retail-us&lng=en",
+    "text4": "Home Office Jobs",
+    "link4": "/?dept=ho&lng=en",
+    "text5": "Distribution Jobs",
+    "link5": "/?dept=ds&lng=en",
+    "text6": "All Jobs",
+    "link6": "/?dept=all&lng=en",
+    "jobs": "Jobs"
+  }
+}
